@@ -1,11 +1,11 @@
 ---
-title: Home
+title: Accueil
 banner:
-  title: Spectral
-  subtitle: "Blandit duis accumsan  \narcu sagittis viverra  \nblandit at Interdum."
+  title: Kampus co-working
+  subtitle: "L’espace des créateurs.  \n Le mouvement des idées."
   actions:
-  - label: Activate
-    url: "/generic"
+  - label: Not forfaits
+    url: "/forfaits"
     is_scrolly: false
     is_primary: true
   bottom_link:

@@ -25,12 +25,10 @@ sections:
       Plateau-Mont-Royal. Accessible en transport en commun grâce aux lignes 97, 24
       et 94. Plusieurs places de stationnement sont aussi à proximité.
     home_img_path: "/images/exterieur.jpg"
-  - title: |-
-      Tortor dolore feugiat
-      elementum magna
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic02.jpg
+  - title: " Bureaux fonctionnels"
+    text: L’espace de co-working Kampus offre une expérience de travail agréable et
+      professionel dans un cadre décontracté. Votre productivité est garantie.
+    home_img_path: "/images/soussol.jpg"
   - title: |-
       Augue eleifend aliquet
       sed condimentum

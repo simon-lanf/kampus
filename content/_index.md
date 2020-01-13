@@ -50,6 +50,10 @@ sections:
     url: "/contact"
     is_scrolly: false
     is_primary: true
+  - label: S'abonner
+    url: https://oad.typeform.com/to/rOj0oV
+    is_scrolly: false
+    is_primary: false
   component: cta.html
 layout: home
 menu:

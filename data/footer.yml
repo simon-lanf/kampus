@@ -6,8 +6,5 @@ social_icons:
 - title: Courriel
   icon: fa-envelope-o
   url: mailto:info@kampus.ca
-copyright: "&copy; Spectral"
-links:
-- text: Made with Stackbit
-  url: https://www.stackbit.com
-  new_window: true
+copyright: "&copy; Kampus 2020"
+links: []

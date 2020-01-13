@@ -4,7 +4,7 @@ banner:
   title: Kampus co-working
   subtitle: "L’espace des créateurs.  \n Le mouvement des idées."
   actions:
-  - label: Not forfaits
+  - label: Nos forfaits
     url: "/forfaits"
     is_scrolly: false
     is_primary: true

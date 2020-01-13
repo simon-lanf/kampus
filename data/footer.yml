@@ -2,7 +2,7 @@
 social_icons:
 - title: Facebook
   icon: fa-facebook
-  url: "#"
+  url: https://www.facebook.com/IDKampus/
 - title: Courriel
   icon: fa-envelope-o
   url: mailto:info@kampus.ca

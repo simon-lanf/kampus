@@ -20,6 +20,10 @@ sections:
   section_id: description
   background_style: style2
   spotlights:
+  - title: Sécurité
+    text: La sécurité des lieux est l’une de nos priorités. L’espace de co-working
+      Kampus est ouvert 24h sur 24, 7 jours sur 7.
+    home_img_path: "/images/securite.jpg"
   - title: " Emplacement de choix"
     text: Kampus est situé à l’intersection des quartiers Rosemont, Hochelaga et du
       Plateau-Mont-Royal. Accessible en transport en commun grâce aux lignes 97, 24

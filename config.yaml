@@ -3,7 +3,7 @@ title: Kampus co-working
 baseURL: "/"
 params:
   landing_template: home
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:

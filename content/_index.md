@@ -41,20 +41,15 @@ sections:
   component: spotlights.html
 - type: cta
   template: cta
-  title: Contactez-nous
-  text: Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend
-    fringilla.
+  title: Rejoingez-nous
+  text: Contactez-nous pour rejoindre notre équipe
   section_id: cta
   background_style: style4
   actions:
-  - label: Activate
-    url: "/generic"
+  - label: Contactez-nous
+    url: "/contact"
     is_scrolly: false
     is_primary: true
-  - label: Learn More
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
   component: cta.html
 layout: home
 menu:

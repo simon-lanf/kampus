@@ -2,7 +2,7 @@
 title: Accueil
 banner:
   title: Kampus co-working
-  subtitle: "L’espace des créateurs.  \n Le mouvement des idées."
+  subtitle: "L’espace des créateurs.  \nLe mouvement des idées."
   actions:
   - label: Nos forfaits
     url: "/forfaits"

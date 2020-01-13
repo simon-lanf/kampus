@@ -29,12 +29,11 @@ sections:
     text: L’espace de co-working Kampus offre une expérience de travail agréable et
       professionel dans un cadre décontracté. Votre productivité est garantie.
     home_img_path: "/images/soussol.jpg"
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic03.jpg
+  - title: " Aménagement personalisé et hors du commun"
+    text: Notre aménagement, nos décors et nos espaces de travail créatifs sont idéales
+      pour les entreprises de 1 à 25 personnes et convient à tous les types de demandes
+      commerciales.
+    home_img_path: "/images/cuisine.jpeg"
   component: spotlights.html
 - type: features
   template: features

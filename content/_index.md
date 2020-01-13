@@ -9,8 +9,8 @@ banner:
     is_scrolly: false
     is_primary: true
   bottom_link:
-    label: Learn More
-    url: "#one"
+    label: En savoir plus
+    url: "#description"
     has_arrow: true
     is_scrolly: true
 sections:

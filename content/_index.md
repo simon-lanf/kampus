@@ -46,7 +46,12 @@ sections:
     text: ''
     home_img_path: "/images/3dprint.png"
   - title: Auditorium
-    text: ''
+    text: |-
+      Réservez dès maintenant notre auditorium, à partir de 99.99$/heure d’utilisation.
+
+      Son potentiel offre plus de 50 places et l’ambiance est parfaite pour des conférences privées, des lancements d’entreprises, des formations d’employés ou tout autre évènement corporatif.
+
+      L’auditorium est disponible aux ateliers artistiques, aux “open-mic” musical ou d’humour ou tout autre soirée thématique concevable ! Contactez nous afin de prendre connaissance des disponibilités offertes.
     home_img_path: "/images/audito.jpg"
   component: spotlights.html
 - type: cta

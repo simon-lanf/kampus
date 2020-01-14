@@ -53,7 +53,7 @@ sections:
       Nous offrons le service d’impression et offrons un tarif préférentiel à tout nos Kampers.
 
       Nos modèles d’imprimantes disponnibles sont la Makerbot Z18 et la Makerbot Replicator 5th Gen.
-    home_img_path: "/images/3dprint.png"
+    home_img_path: "/images/3dprint.jpg"
   - title: Auditorium
     text: |-
       Réservez dès maintenant notre auditorium, à partir de 99.99$/heure d’utilisation.

@@ -43,7 +43,12 @@ sections:
       Kampus est ouvert 24h sur 24, 7 jours sur 7.
     home_img_path: "/images/securite.jpg"
   - title: Impression 3D
-    text: ''
+    text: |-
+      Le centre Kampus est équipé de deux imprimantes 3D top qualité.
+
+      Nous offrons le service d’impression et offrons un tarif préférentiel à tout nos Kampers.
+
+      Nos modèles d’imprimantes disponnibles sont la Makerbot Z18 et la Makerbot Replicator 5th Gen.
     home_img_path: "/images/3dprint.png"
   - title: Auditorium
     text: |-

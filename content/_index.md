@@ -24,6 +24,9 @@ sections:
   section_id: description
   background_style: style2
   spotlights:
+  - title: Impression 3D
+    text: ''
+    home_img_path: "/images/3dprint.png"
   - title: " Emplacement de choix"
     text: Kampus est situé à l’intersection des quartiers Rosemont, Hochelaga et du
       Plateau-Mont-Royal. Accessible en transport en commun grâce aux lignes 97, 24

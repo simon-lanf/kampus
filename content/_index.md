@@ -52,7 +52,8 @@ sections:
 - type: cta
   template: cta
   title: Rejoingez-nous
-  text: Contactez-nous pour rejoindre notre équipe
+  text: "Contactez-nous pour rejoindre notre équipe\n\n### Adresse\n\n2700 rue Angus,
+    Montréal,  \nPlateau-mont-royal ( H2H 1P3 )  \nQC, Canada\n\n### Courriel\n\ninfo@kampus.ca"
   section_id: cta
   background_style: style4
   actions:

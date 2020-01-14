@@ -24,6 +24,9 @@ sections:
   section_id: description
   background_style: style2
   spotlights:
+  - title: Auditorium
+    text: ''
+    home_img_path: "/images/audito.jpg"
   - title: Impression 3D
     text: ''
     home_img_path: "/images/3dprint.png"

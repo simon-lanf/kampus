@@ -42,6 +42,10 @@ sections:
     text: La sécurité des lieux est l’une de nos priorités. L’espace de co-working
       Kampus est ouvert 24h sur 24, 7 jours sur 7.
     home_img_path: "/images/securite.jpg"
+  - title: Studio Kampus
+    text: Le Studio Kampus offre à tous les membres du Kampus un service à taux préférentiels
+      pour la location du studio.
+    home_img_path: "/images/studiokampus.png"
   - title: Impression 3D
     text: |-
       Le centre Kampus est équipé de deux imprimantes 3D top qualité.

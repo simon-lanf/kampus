@@ -24,12 +24,6 @@ sections:
   section_id: description
   background_style: style2
   spotlights:
-  - title: Auditorium
-    text: ''
-    home_img_path: "/images/audito.jpg"
-  - title: Impression 3D
-    text: ''
-    home_img_path: "/images/3dprint.png"
   - title: " Emplacement de choix"
     text: Kampus est situé à l’intersection des quartiers Rosemont, Hochelaga et du
       Plateau-Mont-Royal. Accessible en transport en commun grâce aux lignes 97, 24
@@ -48,6 +42,12 @@ sections:
     text: La sécurité des lieux est l’une de nos priorités. L’espace de co-working
       Kampus est ouvert 24h sur 24, 7 jours sur 7.
     home_img_path: "/images/securite.jpg"
+  - title: Impression 3D
+    text: ''
+    home_img_path: "/images/3dprint.png"
+  - title: Auditorium
+    text: ''
+    home_img_path: "/images/audito.jpg"
   component: spotlights.html
 - type: cta
   template: cta

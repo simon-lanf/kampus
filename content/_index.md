@@ -76,7 +76,7 @@ sections:
     url: "/contact"
     is_scrolly: false
     is_primary: true
-  - label: S'abonner
+  - label: Devenir membre
     url: https://espaces-kampus.typeform.com/to/sFKKSg
     is_scrolly: false
     is_primary: false

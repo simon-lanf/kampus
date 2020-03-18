@@ -8,8 +8,8 @@ banner:
     url: "/forfaits"
     is_scrolly: false
     is_primary: true
-  - label: S'abonner
-    url: https://oad.typeform.com/to/rOj0oV
+  - label: Devenir membre
+    url: https://espaces-kampus.typeform.com/to/sFKKSg
     is_scrolly: false
     is_primary: false
   bottom_link:
@@ -76,8 +76,8 @@ sections:
     url: "/contact"
     is_scrolly: false
     is_primary: true
-  - label: S'abonner
-    url: https://oad.typeform.com/to/rOj0oV
+  - label: Devenir membre
+    url: https://espaces-kampus.typeform.com/to/sFKKSg
     is_scrolly: false
     is_primary: false
   component: cta.html
